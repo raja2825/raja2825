@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raja2825
 - 👀 I’m interested to contibute in projects related to JAVA
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Web Development
   
 
 <!---
